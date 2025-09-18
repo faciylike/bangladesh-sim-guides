@@ -84,3 +84,10 @@ layout: default
 
 　　但无论如何，有一张本地卡，你能更自如地探索这个充满活力的国度。放心去吧，保持联系，随时分享你遇见的故事。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Bangladesh eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/bangladesh-data-plans)
